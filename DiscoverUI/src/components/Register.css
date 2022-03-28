@@ -1,0 +1,16 @@
+.registerForm {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    background-color: #f8f9fd;
+    padding: 1%;
+  }
+
+  .registerTitle{
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: lightblue;
+    padding: 3%;
+    padding-bottom: 0%;
+  }

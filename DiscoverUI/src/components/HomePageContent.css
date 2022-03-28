@@ -1,0 +1,25 @@
+div.content{
+    display: block;
+    padding: 5%;
+    padding-top: 12%;
+    height: 100px;
+    max-width: 100%;
+}
+
+.leftHomeContent{
+    display: inline;
+    float: left;
+    padding-top: 3%;
+    padding-left: 6%;
+    width: 50%;
+    max-width: 50%;
+}
+
+.rightHomeContent{
+    display: inline;
+    float: right;
+    padding-top: 3%;
+    padding-right: 6%;
+    width: 35%;
+    max-width: 35%;
+}
